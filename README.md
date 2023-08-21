@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tcharliis
+- Estou explorando o mundo da tecnologia com foco em lógica de programação e bancos de dados.
+- Atualmente me aprofundando na linguagem Python.
+-  Iniciante entusiasta em busca de conhecimento constante.
+-  👨‍💻🔍 #DesenvolvimentoTecnológico #Python #AprendizadoContínuo"
